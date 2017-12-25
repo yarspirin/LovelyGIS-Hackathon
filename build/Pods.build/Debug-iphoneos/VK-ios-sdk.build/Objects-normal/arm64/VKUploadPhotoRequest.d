@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/upload/VKUploadPhotoRequest.m \
+  /Users/yar/Documents/IndaPlace/Pods/Target\ Support\ Files/VK-ios-sdk/VK-ios-sdk-prefix.pch \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/upload/VKUploadPhotoRequest.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/upload/VKUploadPhotoBase.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/Core/VKRequest.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/Core/VKResponse.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/Core/VKObject.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/models/VKApiObject.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/methods/VKApiConst.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/Image/VKImageParameters.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/Core/VKOperation.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/VKApi.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/methods/VKApiUsers.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/methods/VKApiBase.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/methods/VKApiFriends.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/methods/VKApiPhotos.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/methods/VKApiWall.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/methods/VKApiCaptcha.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/methods/VKApiGroups.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/methods/VKApiDocs.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/methods/VKApiModels.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/models/VKApiObjectArray.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/models/VKAudio.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/models/VKPhoto.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/models/VKPhotoSize.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/models/VKLikes.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/models/VKUser.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/models/VKCounters.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/models/VKSchool.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/models/VKUniversity.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/models/VKRelative.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/models/VKGroup.h \
+  /Users/yar/Documents/IndaPlace/Pods/VK-ios-sdk/library/Source/API/models/VKDocs.h
