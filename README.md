@@ -2,9 +2,9 @@
 The project we made and presented during the LovelyGIS hackathon.
 
 # Screenshots
-![Menu](https://image.ibb.co/c50s4m/menu.jpg)
-![Map](https://image.ibb.co/d0nuH6/map.jpg)
-![Recommend](https://image.ibb.co/kbcuH6/recommend.jpg)
+![Menu](https://preview.ibb.co/dfd4jm/menu.jpg)
+![Map](https://image.ibb.co/j5WqPm/map.jpg)
+![Recommend](https://preview.ibb.co/jpPic6/recommend.jpg)
 
 # Our team
 ![Our team](https://preview.ibb.co/c5gJAR/weare.jpg)
